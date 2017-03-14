@@ -1,0 +1,23 @@
+{
+  "name": "angular-oop-resource",
+  "homepage": "https://github.com/ahs-data-science/angular-oop-resource",
+  "authors": [
+    "Sajjad Shirazy <shirazy.sajjad@gmail.com>"
+  ],
+  "description": "An Angular Object Oriented Resource Handeling Package in Typescript",
+  "main": "src/*",
+  "keywords": [
+    "angular",
+    "typescript",
+    "resource"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
